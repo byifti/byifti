@@ -5,6 +5,7 @@
 
 #### 🛠️ Building:
 - Windows Cabin Dusk Rice (A Cozy Rice For Windows)
+- [Obsidian Quick Capture](https://github.com/byifti/Obsidian-quick-capture-ahk)
 
 #### 📝 Learning: 
 - Windows internals, Windows API and Shell Scripting 
