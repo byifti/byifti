@@ -4,12 +4,10 @@
 ## Currently 
 
 #### 🛠️ Building:
-- [Cozy Windows Rice](https://github.com/byifti/The-Cabin-11)
+- [Text-Based RPG ](https://github.com/byifti/Text-Based-RPG)
 
 #### 📝 Learning: 
-- Windows internals, Windows API and Shell Scripting 
-  (Have future plans for rice install script like Arch's HyDE or End4 but for windows)
-- To use AI to improve workflow and prototype fast
+- JavaScript
 
 ---
 
