@@ -5,7 +5,7 @@
 
 #### 🛠️ Building:
 - [Text-Based RPG ](https://github.com/byifti/Text-Based-RPG)
-- [Todo List App](https://github.com/byifti/Todo-List-App)
+- [Todo List App](https://byifti.github.io/Todo-List-App/)
 
 #### 📝 Learning: 
 - JavaScript
